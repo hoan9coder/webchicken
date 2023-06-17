@@ -142,7 +142,7 @@ header .nav a:hover{
     }
 }
 .col1{
-    background: url("../image/bg-wood.jpg") no-repeat;
+    background: url("./image/bg-wood.jpg") no-repeat;
     overflow: hidden;
     background-size: cover;
     margin-left: 10px;
@@ -194,7 +194,7 @@ header .nav a:hover{
     }
 }
 .content-div2{
-    background: url("../image/jollibee-kid-party-bg.png") no-repeat;
+    background: url("./image/jollibee-kid-party-bg.png") no-repeat;
     background-size: cover;
 }
 .content-div2-text{
@@ -265,7 +265,7 @@ header .nav a:hover{
     }
 }
 .content-div3{
-    background: url("../image/about_bg.jpg");
+    background: url("./image/about_bg.jpg");
     background-size: cover;
 }
 .content-div3 h1{
