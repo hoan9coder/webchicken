@@ -106,7 +106,7 @@ header .nav a:hover{
 .content .content1
 {
     width: 100%;
-    background: #ffe8b4 url('../image/pattern.svg') top center / cover no-repeat;
+    background: #ffe8b4 url('./image/pattern.svg') top center / cover no-repeat;
     padding:50px;
     display: flex;
 }
