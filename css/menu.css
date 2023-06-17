@@ -136,7 +136,7 @@ header .nav a:hover{
     }
 }
 .content-div3{
-    background: url("../image/bg-top.png") no-repeat,url("../image/bg-bottom.png") no-repeat;
+    background: url("./image/bg-top.png") no-repeat,url("./image/bg-bottom.png") no-repeat;
     background-position: center top, center calc(100% - 80px);
     background-size: 100% auto, 100% auto;
     display: flex;
