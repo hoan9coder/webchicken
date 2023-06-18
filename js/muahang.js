@@ -11,6 +11,7 @@ buttons.forEach(function(button) {
 });
 
 function addToCart(name, price, imgUrl) {
+  alert ("Đã thêm vào giỏ hàng.Chúc Quý khách Một Ngày Vui Vẻ");
   var table = document.querySelector("table tbody");
   var row = table.insertRow();
   var nameCell = row.insertCell(0);
